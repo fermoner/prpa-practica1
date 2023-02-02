@@ -1,0 +1,222 @@
+Script started on 2023-02-02 10:07:48+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ git [7mgit@github.com:fermoner/prpa23-1.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:fermoner/prpa23-1.git
+[?2004lgit: 'git@github.com:fermoner/prpa23-1.git' no es un comando de git. Mira 'git --help'.
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ git [7mhttps://github.com/fermoner/prpa23-1.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/fermoner/prpa23-1.git
+[?2004lçgit: 'https://github.com/fermoner/prpa23-1.git' no es un comando de git. Mira 'git --help'.
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ ç[Kgit clone [7mhttps://github.com/fermoner/prpa23-1.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/fermoner/prpa23-1.git
+[?2004lClonando en 'prpa23-1'...
+Username for 'https://github.com': InigoID
+Password for 'https://InigoID@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Autenticación falló para 'https://github.com/fermoner/prpa23-1.git/'
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ git clone https://github.com/fermoner/prpa23-1.git
+[?2004lClonando en 'prpa23-1'...
+Username for 'https://github.com': IN nigoID
+Password for 'https://InigoID@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Autenticación falló para 'https://github.com/fermoner/prpa23-1.git/'
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ gfi[K[Kit config --global user.name "InigoID"
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ git confdi[K[Kig --global user.wem[K[K[Kemail ""[Kinigoiri@ucm.es"
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ /DEs[K[Kesg[Kcargas/ssh
+[?2004lbash: /Descargas/ssh: No existe el archivo o el directorio
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ /Descargas/sshc/Descargas/sshd/Descargas/ssh /Descargas/ssh
+[?2004lbash: cd: /Descargas/ssh: No existe el archivo o el directorio
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ cd /Descargas/ssh[C[K[K[K[K[K[K[K[K[K[K[K[K[K[KDescart[Kgas
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas[01;32malumno@aula443[00m:[01;34m~/Descargas[00m$ ls
+[?2004l[0m[01;34mfirefox.tmp[0m  p2_borrador3.py  p2_borrador4.py  [01;31mssh.zip[0m  [01;34mtextext-0.4.1[0m
+[?2004h]0;alumno@aula443: ~/Descargas[01;32malumno@aula443[00m:[01;34m~/Descargas[00m$ cd ssh
+[?2004lbash: cd: ssh: No existe el archivo o el directorio
+[?2004h]0;alumno@aula443: ~/Descargas[01;32malumno@aula443[00m:[01;34m~/Descargas[00m$ cd ssh
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ cd ssh[4Plscd Descargas/Descargas/ssh[3P/Descargas/sshgit config --global user.email "inigoiri@ucm.es" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Pname "InigoID"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ git config --global user.name "InigoID"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ssh[Kgit config --global user.name "InigoID"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ssh[K[4Plscd Descargas/Descargas/ssh[3P/Descargas/sshgit config --global user.email "inigoiri@ucm.es" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K"
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ gir c[K[K[Kt clone [7mgit@github.com:fermoner/prpa23-1.git[27mgit@github.com:fermoner/prpa23-1.git
+[?2004lClonando en 'prpa23-1'...
+The authenticity of host 'github.com (140.82.121.4)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ gitr [K[K[Kt co[Klone [7mgit@github.com:fermoner/prpa-practica1[27m[7m.[27m[7mgit[27m[A]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ ls -a
+[?2004l[0m[01;34m.[0m  [01;34m..[0m  [01;34m.ssh[0m
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ git clone [7mgit@github.com:fermoner/prpa-practica1[27m[7m.[27m[7mgit[27m[A]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ git clone git@github.com:fermoner/prpa-practica1.git[A]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone git@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ git clone git@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ ls
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ ls -a
+[?2004l[0m[01;34m.[0m  [01;34m..[0m  [01;34m.ssh[0m
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ .ss[K[K[Kcd .ssh
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh/.ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh/.ssh[00m$ cd .ssh[2Pls -a[Kgit clone git@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh/.ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh/.ssh[00m$ cd ..
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ git clone [7mgit@github.com:fermoner/prpa-practica1[27m[7m.[27m[7mgit[27m[A]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ git clone [7mgit@github.com:fermoner/prpa-practica1[27m[7m.[27m[7mgit[27m[A]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ cd .ssh
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh/.ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh/.ssh[00m$ cd .sshgit clone git@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula443: ~/Descargas/ssh/.ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh/.ssh[00m$ c[Kcd ..
+[?2004l[?2004h]0;alumno@aula443: ~/Descargas/ssh[01;32malumno@aula443[00m:[01;34m~/Descargas/ssh[00m$ cd ..[K[K[K[K[Kcd
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ rm -r .ssh/
+[?2004l[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ zunip [K[K[K[K[K[Kunzip Descargas/ssh.zip 
+[?2004lArchive:  Descargas/ssh.zip
+   creating: .ssh/
+  inflating: .ssh/id_rsa             
+  inflating: .ssh/id_rsa.pub         
+  inflating: .ssh/known_hosts        
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ unzip Descargas/ssh.zip [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Prm -r .ssh/cd[K ..git clone git@github.com:fermoner/prpa-practica1.git
+[?2004lClonando en 'prpa-practica1'...
+The authenticity of host 'github.com (140.82.121.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? te  yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Recibiendo objetos:  33% (1/3)Recibiendo objetos:  66% (2/3)Recibiendo objetos: 100% (3/3)Recibiendo objetos: 100% (3/3), listo.
+[?2004h]0;alumno@aula443: ~[01;32malumno@aula443[00m:[01;34m~[00m$ cd prpa-practica1/
+[?2004l[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ ls
+[?2004lREADME.md
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ ls
+[?2004lREADME.md
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ mv .[K../*py .
+[?2004l[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ ls
+[?2004l0_procesos.py  2_procesos.py  4_procesos.py           README.md
+1_procesos.py  3_procesos.py  gitymultiprocessing.py
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git add[K[K[Kadd 0-[K_por[K[Krocesos.py git?[K-[K nc[K[K[K commit -[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git commid -m [K[K[K[K[Kt -m ""S"e" "s"u"b"e" "e"l" "f"i"c"h"e"r"o"
+[?2004l[main 3ef717b] Se sube el fichero
+ 1 file changed, 27 insertions(+)
+ create mode 100644 0_procesos.py
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git commit -m "Se sube el fichero" git push
+[?2004lerror: ruta especificada 'git' no concordó con ningún archivo conocido por git
+error: ruta especificada 'push' no concordó con ningún archivo conocido por git
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git commit -m "Se sube el fichero" git push[K[K[K[K[K[K[K[K[K[K"
+[?2004lEn la rama main
+Tu rama está adelantada a 'origin/main' por 1 commit.
+  (usa "git push" para publicar tus commits locales)
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	[31m1_procesos.py[m
+	[31m2_procesos.py[m
+	[31m3_procesos.py[m
+	[31m4_procesos.py[m
+	[31mgitymultiprocessing.py[m
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git commit -m "Se sube el fichero"[C[K'[C[1P[1@~[1P[1@'
+[?2004lEn la rama main
+Tu rama está adelantada a 'origin/main' por 1 commit.
+  (usa "git push" para publicar tus commits locales)
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	[31m1_procesos.py[m
+	[31m2_procesos.py[m
+	[31m3_procesos.py[m
+	[31m4_procesos.py[m
+	[31mgitymultiprocessing.py[m
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git [K app [K[K[Kdd 0_procesos.py 
+[?2004l[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git commit ""[K[K[K -m "Se ha subido este archivo"
+[?2004lEn la rama main
+Tu rama está adelantada a 'origin/main' por 1 commit.
+  (usa "git push" para publicar tus commits locales)
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+	[31m1_procesos.py[m
+	[31m2_procesos.py[m
+	[31m3_procesos.py[m
+	[31m4_procesos.py[m
+	[31mgitymultiprocessing.py[m
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ push [K[K[K[K[Kgit ps[Kush
+[?2004lEnumerando objetos: 4, listo.
+Contando objetos:  25% (1/4)Contando objetos:  50% (2/4)Contando objetos:  75% (3/4)Contando objetos: 100% (4/4)Contando objetos: 100% (4/4), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  33% (1/3)Comprimiendo objetos:  66% (2/3)Comprimiendo objetos: 100% (3/3)Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos:  33% (1/3)Escribiendo objetos:  66% (2/3)Escribiendo objetos: 100% (3/3)Escribiendo objetos: 100% (3/3), 578 bytes | 578.00 KiB/s, listo.
+Total 3 (delta 0), reusados 0 (delta 0), pack-reusados 0
+To github.com:fermoner/prpa-practica1.git
+   0061a73..3ef717b  main -> main
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git pushcommit -m "Se ha subido este archivo"[19Padd 0_procesos.py 1_procesos.py 2_procesos.py 3_procesos.py 4_procesos.py g[K[K
+[?2004l[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git commit '[K-m "Se ha[K[Ksuben los archuivo[K[K[K[Kivos"
+[?2004l[main b84179b] Se suben los archivos
+ 4 files changed, 134 insertions(+)
+ create mode 100644 1_procesos.py
+ create mode 100644 2_procesos.py
+ create mode 100644 3_procesos.py
+ create mode 100644 4_procesos.py
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ git push
+[?2004lEnumerando objetos: 7, listo.
+Contando objetos:  14% (1/7)Contando objetos:  28% (2/7)Contando objetos:  42% (3/7)Contando objetos:  57% (4/7)Contando objetos:  71% (5/7)Contando objetos:  85% (6/7)Contando objetos: 100% (7/7)Contando objetos: 100% (7/7), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  16% (1/6)Comprimiendo objetos:  33% (2/6)Comprimiendo objetos:  50% (3/6)Comprimiendo objetos:  66% (4/6)Comprimiendo objetos:  83% (5/6)Comprimiendo objetos: 100% (6/6)Comprimiendo objetos: 100% (6/6), listo.
+Escribiendo objetos:  16% (1/6)Escribiendo objetos:  33% (2/6)Escribiendo objetos:  83% (5/6)Escribiendo objetos: 100% (6/6)Escribiendo objetos: 100% (6/6), 1.23 KiB | 1.23 MiB/s, listo.
+Total 6 (delta 3), reusados 0 (delta 0), pack-reusados 0
+remote: Resolving deltas:   0% (0/3)[Kremote: Resolving deltas:  33% (1/3)[Kremote: Resolving deltas:  66% (2/3)[Kremote: Resolving deltas: 100% (3/3)[Kremote: Resolving deltas: 100% (3/3), done.[K
+To github.com:fermoner/prpa-practica1.git
+   3ef717b..b84179b  main -> main
+[?2004h]0;alumno@aula443: ~/prpa-practica1[01;32malumno@aula443[00m:[01;34m~/prpa-practica1[00m$ [?2004l
+exit
+
+Script done on 2023-02-02 10:52:19+01:00 [COMMAND_EXIT_CODE="0"]
